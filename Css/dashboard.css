@@ -1,0 +1,152 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+a{
+  color: inherit;
+  text-decoration: none;
+}
+body {
+  width: 100%;
+  height: 100%;
+  background-color: rgb(218, 218, 218);
+  background-image: url(../gambar/Background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.satu {
+  float: left;
+  width: 40%;
+  height: 65px;
+}
+.logo {
+  width: 250px;
+  padding-left: 15px;
+  padding-top: 2px;
+}
+.dua {
+  float: right;
+  width: 58.5%;
+  height: 65px;
+}
+.emailatas {
+  color: white;
+  letter-spacing: 0;
+  font-family: Poppins;
+  font-weight: 100;
+  font-size: 16px;
+  float: right;
+  padding-right: 20px;
+  padding-top: 10px;
+}
+.tiga {
+  float: left;
+  width: 40%;
+  height: 470px;
+  align-items: center;
+}
+.baru {
+  color: white;
+  font-family: Poppins;
+  font-weight: 600;
+  font-size: 30px;
+  text-align: center;
+  padding-top: 150px;
+}
+.desc {
+  color: white;
+  font-family: Poppins;
+  font-weight: 100;
+  font-size: 20px;
+  text-align: center;
+}
+button {
+  font-family: Poppins;
+  font-weight: 400;
+  border-radius: 30px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  width: 120px;
+  align-self: center;
+  height: 45px;
+  font-size: 20px;
+  border-style: none;
+  background-color: white;
+  position: fixed;
+  margin-left: 0px;
+}
+.tombolkiri {
+  margin-left: 130px;
+}
+.tombolkanan {
+  margin-left: 280px;
+}
+button:hover {
+  background-color: #570707;
+  color: white;
+}
+.empat {
+  float: right;
+  width: 58.8%;
+  line-height: 10px;
+  height: 470px;
+}
+.bulat {
+  background-color: #00000080;
+  border-radius: 430px/431px;
+  width: 490px;
+  position: fixed;
+  margin-left: 180px;
+  margin-top: 5px;
+  height: 490px;
+}
+.tulisan {
+  width: 400px;
+  height: 300px;
+  text-align: left;
+  line-height: 0.8;
+  margin-top: 120px;
+  margin-left: 120px;
+  position: fixed;
+}
+.program {
+  color: white;
+  font-family: Poppins;
+  font-weight: 700;
+  font-size: 50px;
+}
+.karyawan {
+  color: white;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 50px;
+}
+.aplikasi {
+  color: white;
+  font-family: Poppins;
+  font-weight: 200;
+  font-size: 19px;
+  line-height: 1.4;
+}
+.lima {
+  float: left;
+  width: 99.25%;
+  height: 0px;
+}
+.garis {
+  width: 95%;
+  height: 2px;
+  margin-top: 80px;
+  background-color: white;
+  position: fixed;
+  margin-left: 30px;
+}
+.link {
+  color: white;
+  font-family: Poppins;
+  font-size: 12px;
+  margin-top: 90px;
+  text-align: center;
+}

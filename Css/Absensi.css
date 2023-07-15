@@ -1,0 +1,201 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+body{
+    background-image: url(../gambar/Background.png);
+    background-size:cover;
+}
+.akun{
+    padding-top: 10px;
+    padding-right: 10px;
+    float:right;
+    color: white;
+}
+.header{
+    float: right;
+    width: 1030px;
+    background-color: black;
+    opacity: 50%;
+}
+.sidebar{
+    float: left;
+    position: fixed;
+    width: 250px;
+    height: 100%;
+    background-color: #570707;
+    opacity: 70%;
+}
+a{
+    color: inherit;
+    text-decoration: none;
+}
+.Beranda{
+    margin-top: 30px;
+    display: block;
+    height: 100%;
+    width: 100%;
+    line-height: 65px;
+    font-size:20px;
+    color:white;
+    padding-left: 10px;
+    box-sizing: border-box;
+    border-top: 2px solid white;
+}
+.Scheduler{
+    display: block;
+    height: 100%;
+    width: 100%;
+    line-height: 65px;
+    font-size:20px;
+    color:white;
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+.Absensi{
+    display: block;
+    height: 60px;
+    width: 250px;
+    line-height: 65px;
+    font-size:20px;
+    color:black;
+    padding-left: 10px;
+    box-sizing: border-box;
+    border: 2px solid #D9D9D9;
+    background-color: #D9D9D9;
+    border-radius: 10%;
+}
+.Tentang{
+    display: block;
+    height: 100%;
+    width: 100%;
+    line-height: 65px;
+    font-size:20px;
+    color:white;
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+.help{
+    display: block;
+    height: 100%;
+    width: 100%;
+    margin-top: 240px;
+    font-size:12px;
+    color:white;
+    padding-left: 10px;
+    box-sizing: border-box;
+    text-transform: lowercase;
+}
+.h1{
+    position: relative;
+    margin-top: 20px;
+    margin-left: 270px;
+    float:left;
+    color: white;
+}
+.user{
+    float: right;
+    padding-right: 10px;
+}
+.rectangle{
+    position: fixed;
+    margin-top: 130px;
+    margin-left: 270px;
+    float:left;
+    color: white;
+    background-color: #570707;
+    border:10px solid #570707;
+}
+.form1{
+    position: fixed;
+    width: 220px;
+    height:130px;
+    margin-top: 200px;
+    margin-left: 270px;
+    border-left: 5px solid #715CEE;
+    background-color: rgba(230, 230, 230, 1);
+    display: flex;
+    font-size: 15px;
+    border-radius: 4%;
+}
+.form2{
+    position: fixed;
+    width: 220px;
+    height:130px;
+    margin-top: 200px;
+    margin-left: 500px;
+    border-left: 5px solid #EE5C5C;
+    background-color: rgba(230, 230, 230, 1);
+    backdrop-filter: blur(20px);
+    display: flex;
+    font-size: 15px;
+    border-radius: 4%;
+}
+.form3{
+    position: fixed;
+    width: 220px;
+    height:130px;
+    margin-top: 200px;
+    margin-left: 730px;
+    border-left: 5px solid #E2EE5C;
+    background-color: rgba(230, 230, 230, 1);
+    backdrop-filter: blur(20px);
+    display: flex;
+    font-size: 15px;
+    border-radius: 4%;
+}
+.form4{
+    position: fixed;
+    width: 220px;
+    height:130px;
+    margin-top: 200px;
+    margin-left: 960px;
+    border-left: 5px solid #5FEE5C;
+    background-color: rgba(230, 230, 230, 1);
+    font-size: 15px;
+    border-radius: 4%;
+    
+}
+.opacity{
+    opacity: 50%;
+    padding-bottom: 10px;
+    border-bottom: 2px solid black
+}
+.user1{
+    float: left;
+    margin-right: 10px;
+}
+button{
+    float: left;
+    justify-content: center;
+    border: 5px solid white;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 10px;
+    font-size: 16px;
+}
+.absen{
+    position: fixed;
+    margin-left: 680px;
+    margin-top:380px;
+    color:white
+}
+.opacity1{
+    opacity: 50%;
+    position: fixed;
+    margin-left: 620px;
+    margin-top:400px;
+    color:white;
+    justify-content: center;
+}
+.print{
+    position: fixed;
+    margin-left: 720px;
+    margin-top:440px;
+    color:white
+}
+.label1{
+    padding-top: 10px;
+}
